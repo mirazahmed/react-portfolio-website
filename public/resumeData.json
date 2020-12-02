@@ -1,0 +1,129 @@
+{
+  "main": {
+    "name":"Miraz Ahmed",
+    "occupation":"Software Developer",
+    "description":"A lifelong-learner with great passion for coding.",
+    "image":"myprofile_pic.jpg",
+    "bio":"I am a big fan of pursuing a active lifestyle. Physical activities boost up my confidence level and help me stay focused. Coding is a problem-solving skill which requires a lot of mental strength, which can be achieved through regular physical exercise. I find coding very interesting because it never stops being challenging. I believe that only challenge can bring the best out of a man. I first began learning about programming at Seneca. I learned C,C++,Java and JavaScript and a lot other technologies, frameworks and libraries. Currently my focus is solely on JavaScript. I started solving different problems at HackerRank to sharpen my JavaScript skills.",
+    "email": "miraz37@gmail.com",
+    "phone": "416-844-4588",
+    "address":{
+      "city":"Toronto",
+      "state":"Ontario"     
+    },
+    
+    "social":[      
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/mirazahmed",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/mirazahmed",
+        "className":"fa fa-github"
+      }
+            
+    ]
+  },
+  "resume":{
+    
+    "education":[
+      {
+        "school":"Seneca College",
+        "degree":"Diploma in \"Computer Programmer\"" ,
+        "graduated":"October 2020",
+        "description":"Programming languages: C, C++, Java, JavaScript. Frontend and Backened technologies: React, Angular and Node.Js. Database technologies: SQL, MongoDB. Operating System: Linux"
+      },
+      {
+        "school":"University of Dhaka",
+        "degree":"Bachelor of Business Studies",
+        "graduated":"June 2007",
+        "description":"Major courses studied: Business Mathematics, Statistics,Financial Accounting, Human Resource Management, Corporate Finance, Cost and Management Accounting, "
+      }
+    ],
+    "work":[
+      {
+        "company":"Lowe's Companies, Inc., Toronto",
+        "title":"Customer Service Associate ",
+        "years":"May 2019 - October 2019",
+        "description":"Served as cashier at teller. Answered customer queries and ensured maximum customer satisfaction. Received acknowledgement for collecting highest donation in the store received for \"Habitat for Humanity\"."
+      }      
+    ],
+    "skills":[
+      {
+        "name":"Javascript",
+        "level":"70%"
+      },
+      {
+        "name":"C++",
+        "level":"55%"
+      },      
+      {
+        "name":"NodeJs",
+        "level":"70%"
+      },
+      {
+        "name":"SQL",
+        "level":"80%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"65%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"65%"
+      },
+      {
+        "name":"Linux",
+        "level":"50%"
+      },
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"HTML5",
+        "level":"75%"
+      },      
+      {
+        "name":"CSS",
+        "level":"75%"
+      },
+      {
+        "name":"Bootstrap",
+        "level":"75%"
+      }      
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Shopper's Paradise",
+        "category":"E-commerce site with Node.Js and template engine",
+        "image":"shoppers_paradise.jpg",
+        "url":"http://shoppersparadise.herokuapp.com"
+      },
+      {
+        "title":"YelpCamp",
+        "category":"Campground website with Node.Js and template engine",
+        "image":"yelpCamp.jpg",
+        "url":"https://yelpcampsites2020.herokuapp.com/"
+      },
+      {
+        "title":"Beach Resort",
+        "category":"Hotel Reservation website with React.Js",
+        "image":"hotel_Reservation_website.jpg",
+        "url":"https://react-hotel-reservation-website.netlify.app"
+      },
+      {
+        "title":"Product Assembly Line",
+        "category":"A program written in C++ that simulates a product assembly line ",
+        "image":"product_assembly_line.jpg",
+        "url":"https://github.com/mirazahmed/OOP345-MileStone3"
+      }
+      
+    ]
+  }  
+}
