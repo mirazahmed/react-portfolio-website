@@ -100,6 +100,12 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Picture and Stories Blog",
+        "category":"Fullstack picture sharing App with React, Ndoe & Express and MongoDB",
+        "image":"pix&stories.jpg",
+        "url":"https://mern-picture-blog.netlify.app"
+      },
+      {
         "title":"Shopper's Paradise",
         "category":"E-commerce site with Node.Js and template engine",
         "image":"shoppers_paradise.jpg",
